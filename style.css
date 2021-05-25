@@ -5,15 +5,18 @@ body{
     
 }
 
-#Contact_us iframe{
-    
-    width: 100%;
-    
-    
+#Contact_us iframe{  
+    width: 100%; 
 }
 
-.hi{
-    
-    
-    
+.hi{  
+}
+
+.movie_head{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
 }
